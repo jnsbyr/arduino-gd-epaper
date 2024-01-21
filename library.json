@@ -1,0 +1,24 @@
+{
+    "name": "Good Display ePaper",
+    "keywords": "Dalian Waveshare Good Display ePaper GDEW0102T4 UC8157",
+    "description": "Arduino driver for Dalian and Waveshare Good Display B/W E Ink displays with UC8157 controller (e.g. GDEW0102T4).",
+    "authors": [
+      {
+        "name": "Jens B.",
+        "maintainer": true
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jnsbyr/arduino-gd-epaper/"
+    },
+    "version": "1.0.0",
+    "examples": "examples/*/*.ino",
+    "license": "Apache-2.0",
+    "frameworks": "arduino",
+    "platforms": "*",
+    "headers": "GD_ePaper.h",
+    "dependencies": {
+      "Adafruit GFX Library": "*"
+    }
+}
