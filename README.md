@@ -41,7 +41,7 @@ The current version of this library only supports the 1.02" B/W E Ink display GD
 
 ## Documentation
 
-See method description in the [header file](src/GD_EPDisplay.h).
+See method description in the [header file](src/GD_ePaper.h).
 
 ## Examples
 
